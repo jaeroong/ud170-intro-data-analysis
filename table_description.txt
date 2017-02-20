@@ -1,8 +1,3 @@
-Edit
-
-# ud170-intro-data-analysis
-ud170-intro-data-analysis
-
 enrollments.csv:
 
 Data about a random subset of Data Analyst Nanodegree students who complete
